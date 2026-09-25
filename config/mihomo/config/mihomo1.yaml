@@ -38,7 +38,7 @@ proxies:
 
 mixed-port: 7890
 authentication:
-- "user:passwd"
+- "clash:PaFgpasswd"
 skip-auth-prefixes:
 - 127.0.0.0/8
 - 192.168.0.0/16
